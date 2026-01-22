@@ -6,5 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "pandas>=2.3.3",
+<<<<<<< Updated upstream
     "pyarrow>=22.0.0",
+=======
+    "pyarrow>=23.0.0",
+>>>>>>> Stashed changes
 ]
